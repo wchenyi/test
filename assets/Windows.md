@@ -52,7 +52,7 @@
 |F1Clash|[下载](https://github.com/chen08209/FlClash)||基于ClashMeta，Material You设计风格，全平台|
 |karing|[下载](https://github.com/KaringX/karing)||多平台|
 |ClashPro|[下载](https://github.com/KaringX/ClashPro/releases)|||
-|ClashParty|[下载](https://clashparty.org/)|[下载](https://github.com/mihomo-party-org/clash-party/releases)||
+|ClashParty|[下载](https://clashparty.org/)|[下载](https://github.com/mihomo-party-org/clash-party/releases)|多平台|
 
 ### **2.1 Trojan-Windows客户端**
 
@@ -74,4 +74,5 @@
 
 - 这些软件终究只是辅助作用，不够稳定；如果有能力的话还是建议少使用插件，
 - 推荐使用网上应用商店的方式下载最新版
+
 
