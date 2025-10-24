@@ -16,21 +16,23 @@
 
 |软件名 |下载地址|
 | ------ | :---: |
-|✅Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray)
-|✅v2rayL|[下载](https://github.com/jiangxufeng/v2rayL/releases)
-|✅Mellow|[下载](https://github.com/mellow-io/mellow)
-|✅Clashy|[下载](https://github.com/SpongeNobody/Clashy/releases)
-|✅Outline|[下载](https://getoutline.org/zh-CN/)
-|✅Trojan-qt5|[下载]()
-|✅Nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)
-|✅ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)
-|~✅Clash Mutiplatform❌~|~[下载](https://t.me/c/1834195052/41)~
-|✅clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)|
-|✅clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
-|✅Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)|
-|✅Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)|
-|✅sing-box|[下载](https://github.com/SagerNet/sing-box)|
-|✅F1Clash|[下载](https://github.com/chen08209/FlClash)|
+|Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray)
+|v2rayL|[下载](https://github.com/jiangxufeng/v2rayL/releases)
+|Mellow|[下载](https://github.com/mellow-io/mellow)
+|Clashy|[下载](https://github.com/SpongeNobody/Clashy/releases)
+|Outline|[下载](https://getoutline.org/zh-CN/)
+|Trojan-qt5|[下载]()
+|Nekoray|[下载](https://github.com/MatsuriDayo/nekoray/releases)
+|ClashMeta|[下载](https://github.com/MetaCubeX/Clash.Meta/releases)
+|~Clash Mutiplatform❌~|~[下载](https://t.me/c/1834195052/41)~
+|clash-rev|[下载](https://github.com/MerlinKodo/clash-rev)|
+|clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
+|Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)|
+|Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)|
+|sing-box|[下载](https://github.com/SagerNet/sing-box)|
+|F1Clash|[下载](https://github.com/chen08209/FlClash)|
+|ClashParty|[下载](https://clashparty.org/)|
+
 ### **1.1 Trojan客户端**
 
 |软件名 |下载地址|
