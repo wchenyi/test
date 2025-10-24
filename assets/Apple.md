@@ -54,26 +54,26 @@
 |Outline|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/outline-app/id1356177741)
 |Xurge|[链接直达](https://apps.apple.com/hk/app/xurge-unofficial-surge-helper/id1525585898)
-|🐶sing-box|[链接直达](https://apps.apple.com/us/app/sing-box/id6451272673)
+|sing-box|[链接直达](https://apps.apple.com/us/app/sing-box/id6451272673)
 |ForXray|[链接直达](https://apps.apple.com/hk/app/foxray/id6448898396)
 |Chute|[链接直达](https://apps.apple.com/hk/app/chute-network-toolbox/id1515248945)
-|🐶Spectre|[链接直达](https://apps.apple.com/hk/app/spectre-vpn/id1508712998)
-|🐶v2Box|[链接直达](https://apps.apple.com/app/id6446814690)
+|Spectre|[链接直达](https://apps.apple.com/hk/app/spectre-vpn/id1508712998)
+|v2Box|[链接直达](https://apps.apple.com/app/id6446814690)
 |Telescope|[链接直达](https://apps.apple.com/hk/app/v2box-v2ray-client/id6446814690)
-|🐶Streisand|[链接直达](https://apps.apple.com/app/id6450534064)
+|Streisand|[链接直达](https://apps.apple.com/app/id6450534064)
 
 ## **2、Mac OS** 👩‍💻
 
 | 软件 |官网|备用下载
 | --- | :----: | :---: 
-|✅ClashX|[下载](https://clashx.org/)|[下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
-|✅ClashXMeta|[下载](https://github.com/MetaCubeX/ClashX.Meta)
-|✅Stash|[下载](https://stash.ws)|
-|✅Surge for Mac|[下载](https://nssurge.com)|
-|✅Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
-|✅clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
-|✅Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)
-|✅F1Clash|[下载](https://github.com/chen08209/FlClash)|
+|ClashX|[下载](https://clashx.org/)|[下载](https://d2.netfiles.pw/v2/macos/ClashX-Pro-v1.70.0.2.dmg)
+|ClashXMeta|[下载](https://github.com/MetaCubeX/ClashX.Meta)
+|Stash|[下载](https://stash.ws)|
+|Surge for Mac|[下载](https://nssurge.com)|
+|Clash Verge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
+|clash-verge-rev|[下载](https://github.com/clash-verge-rev/clash-verge-rev)|
+|Mihomo Party|[下载](https://github.com/pompurin404/mihomo-party/releases)
+|F1Clash|[下载](https://github.com/chen08209/FlClash)|
 |Qv2ray|[下载](https://github.com/Qv2ray/Qv2ray/releases)|
 |v2rayU|[下载](https://github.com/yanue/V2rayU/releases)|
 |V2rayX|[下载](https://github.com/yanue/V2rayU/releases)|
@@ -81,7 +81,8 @@
 |ShadowsocksX-NG-R|[下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
 |Nekoray-MacOS|[下载](https://github.com/aaaamirabbas/nekoray-macos/releases)|
 |ClashVerge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
-|Hiddify-next|[下载](https://hiddify.com)|[下载](https://github.com/hiddify/hiddify-next/releases)
+|Hiddify-next|[下载](https://hiddify.com)|[下载](https://github.com/hiddify/hiddify-next/releases)|
+|ClashParty|[下载](https://clashparty.org/)|[下载](https://github.com/mihomo-party-org/clash-party/releases)|
 
 ### **2.1 Trojan客户端**
 
