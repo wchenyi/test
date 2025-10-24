@@ -28,7 +28,7 @@
 
 ## **2、其他同类软件**
 
-| 软件 | 官网 | 1年 | 备注 |
+| 软件 | 官网 | 其他 | 备注 |
 | ----- |:-----:|:-----:|:-----|
 |ClashN|[下载](https://github.com/2dust/clashN/releases)| |⭐ 空间占用较小，zip解压安装，需额外下载[Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)运行环境
 |v2ray-plugin|[下载](https://github.com/shadowsocks/v2ray-plugin)| |shadowsocks插件
@@ -50,8 +50,9 @@
 |Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)||多平台|
 |sing-box|[下载](https://github.com/SagerNet/sing-box)||多平台|
 |F1Clash|[下载](https://github.com/chen08209/FlClash)||基于ClashMeta，Material You设计风格，全平台|
-|karing|[下载](https://github.com/KaringX/karing)||多平台，新软件|
-|ClashPro|[下载](https://github.com/KaringX/ClashPro/releases)||新软件|
+|karing|[下载](https://github.com/KaringX/karing)||多平台|
+|ClashPro|[下载](https://github.com/KaringX/ClashPro/releases)|||
+|ClashParty|[下载](https://clashparty.org/)|[下载](https://github.com/mihomo-party-org/clash-party/releases)||
 
 ### **2.1 Trojan-Windows客户端**
 
@@ -73,3 +74,4 @@
 
 - 这些软件终究只是辅助作用，不够稳定；如果有能力的话还是建议少使用插件，
 - 推荐使用网上应用商店的方式下载最新版
+
