@@ -57,5 +57,9 @@
 - [Tuic](https://github.com/EAimTY/tuic/tree/dev)
 - [hysteria](https://github.com/apernet/hysteria)
 
+## **4、NEXT**
+- [ClashBox](https://github.com/xiaobaigroup/ClashBox)
+- [auto-installer](https://github.com/likuai2010/auto-installer)
+
 
 
