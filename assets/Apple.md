@@ -19,10 +19,10 @@
 
 | 软件 | App Store直达 | 备注
 | --- | :---: | :--- 
-|✅Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)|⭐性价比无敌，单独节点，上手简单，单独热点、单独免流
-|✅Stash|[链接直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)|⭐无缝衔接CFA，界面美观，可自定义图标，单独热点，单独免流
-|✅Surge|[链接直达](https://apps.apple.com/us/app/surge-5/id1442620678?l=zh)|⭐强大但贵，界面美观，可玩性高
-|✅Quantumult X|[链接直达](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)|⭐值得推荐，界面美观，上手难度较高
+|Shadowrocket|[链接直达](https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh)|⭐性价比无敌，单独节点，上手简单，单独热点、单独免流
+|Stash|[链接直达](https://apps.apple.com/us/app/stash/id1596063349?l=zh)|⭐无缝衔接CFA，界面美观，可自定义图标，单独热点，单独免流
+|Surge|[链接直达](https://apps.apple.com/us/app/surge-5/id1442620678?l=zh)|⭐强大但贵，界面美观，可玩性高
+|Quantumult X|[链接直达](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh)|⭐值得推荐，界面美观，上手难度较高
 |OneClick|[官网](https://oneclick.earth/#/)|⭐️苹果端免费软件，安卓端也有此软件，覆盖基础功能，可单独开热点
 |Kitsunebi|[链接直达](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073)|
 |Egern|[连接直达](https://apps.apple.com/hk/app/egern/id1616105820)|
@@ -34,6 +34,7 @@
 |Choc|[链接直达](https://apps.apple.com/hk/app/choc/id1582542227)||
 |ClashX|[链接直达](https://apps.apple.com/hk/app/clashx-服务监控面板/id6444824570)||大陆ID即可
 |Clash Dash|[链接直达](https://apps.apple.com/cn/app/clash-dash/id6738882561)||大陆ID即可
+|Clash Mi|[链接直达](https://apps.apple.com/us/app/clash-mi/id6744321968)||
 
 
 **其他免费代理/VPN软件**
