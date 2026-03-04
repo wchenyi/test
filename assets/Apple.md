@@ -62,6 +62,7 @@
 |v2Box|[链接直达](https://apps.apple.com/app/id6446814690)
 |Telescope|[链接直达](https://apps.apple.com/hk/app/v2box-v2ray-client/id6446814690)
 |Streisand|[链接直达](https://apps.apple.com/app/id6450534064)
+|Clash mi|[链接直达](https://apps.apple.com/app/id6744321968)
 
 ## **2、Mac OS** 👩‍💻
 
