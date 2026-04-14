@@ -31,7 +31,10 @@
 |Hiddify-next|[下载](https://github.com/hiddify/hiddify-next/releases)|
 |sing-box|[下载](https://github.com/SagerNet/sing-box)|
 |F1Clash|[下载](https://github.com/chen08209/FlClash)|
-|ClashParty|[下载](https://clashparty.org/)|
+|GUI.for.SingBox|[下载](https://github.com/GUI-for-Cores/GUI.for.SingBox)|
+|GUI.for.Clash|[下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)|
+|Stelliberty|[下载](https://github.com/Kindness-Kismet/Stelliberty/releases)|
+|Throne|[下载](https://github.com/throneproj/Throne/releases)|
 
 ### **1.1 Trojan客户端**
 
