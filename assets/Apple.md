@@ -36,6 +36,7 @@
 |Clash Dash|[链接直达](https://apps.apple.com/cn/app/clash-dash/id6738882561)||大陆ID即可
 |Clash Mi|[链接直达](https://apps.apple.com/us/app/clash-mi/id6744321968)||
 |ChocLite|[链接直达](https://apps.apple.com/by/app/choclite/id6467517938)||
+|ClashBar|||
 
 
 **其他免费代理/VPN软件**
@@ -86,7 +87,9 @@
 |ClashVerge|[下载](https://github.com/zzzgydi/clash-verge/releases)|
 |Hiddify-next|[下载](https://hiddify.com)|[下载](https://github.com/hiddify/hiddify-next/releases)|
 |ClashParty|[下载](https://clashparty.org/)|[下载](https://github.com/mihomo-party-org/clash-party/releases)|
-|ClashParty|[下载](clashmi.app/)|[下载](https://github.com/KaringX/clashmi)|
+|Clashmi|[下载](clashmi.app/)|[下载](https://github.com/KaringX/clashmi)|
+|ClashBar|[下载](https://github.com/Sitoi/clashbar)||
+|AnyPortal|[下载](https://github.com/AnyPortal/AnyPortal)||
 
 ### **2.1 Trojan客户端**
 
