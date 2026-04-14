@@ -12,17 +12,17 @@
 
 ### **目录**
 
-> [1、常用软件](#1%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6)<br>
+> [1、分类一](#1%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6)<br>
 > [2、其他同类软件](#2%E5%85%B6%E4%BB%96%E5%90%8C%E7%B1%BB%E8%BD%AF%E4%BB%B6)<br>
 > [3、开热点软件](#3%E5%BC%80%E7%83%AD%E7%82%B9%E8%BD%AF%E4%BB%B6-)
 
 ## **软件下载** 📱
 
-### **1、常用软件**😘
+### **分类一**😘
 
 | 软件 | 官网 | 其他 | 谷歌商店 | 备用 | 备注 |
 | ---- | :--: | :--: | :----: | :---: | :--- |
-|Clash For  Android❌|[下载](https://github.com/Kr328/ClashForAndroid/releases)||[下载](https://play.google.com/store/search?q=clash&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)|⭐资源占用较低（参考值：27.58MB）~<br>~高阶操作需配置代码，可单独开热点，不可单独混淆
+|Clash For  Android|[下载](https://github.com/Kr328/ClashForAndroid/releases)||[下载](https://play.google.com/store/search?q=clash&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/ClashForAndroid-v2.5.4.apk)|⭐资源占用较低（参考值：27.58MB）~<br>~高阶操作需配置代码，可单独开热点，不可单独混淆
 |v2RayNG|[下载](https://github.com/2dust/v2rayNG/releases)||[下载](https://play.google.com/store/search?q=v2ray&c=apps&hl=zh_CN)|[下载](https://d3.netfiles.pw/v2/android/v2rayNG-v1.7.3.apk)|⭐资源占用较高（参考值：60.23MB）<br>高阶操作无需代码，可单独开热点（鸿蒙系统热点可能有Bug，可以使用oneclick或者Matsuri），可单独混淆
 |SurfBoard|[下载](https://github.com/getsurfboard/surfboard)||[下载](https://play.google.com/store/apps/details?id=com.getsurfboard&hl=zh_CN)|[文档](https://manual.getsurfboard.com)|⭐资源占用较低（参考值：46.01MB）<br>高阶操作无需代码，可单独开热点，不可单独混淆
 |OneClick|[下载](https://oneclick.earth/#/)| |[下载](https://play.google.com/store/apps/details?id=earth.oneclick)| |⭐资源占用较低（参考值：57.45MB）<br>苹果和安卓端都有此软件、免费，可单独开热点
@@ -34,15 +34,15 @@
 |sing-box|[下载](https://github.com/SagerNet/sing-box)||||少有的免费，支持安卓、Win、iOS、Apple TV的软件|
 |F1Clash|[下载](https://github.com/chen08209/FlClash)||||基于ClashMeta，Material You设计风格，全平台，资源占用较大|
 |karing|[下载](https://github.com/KaringX/karing)||||多平台，新软件|
-|Clash MultuPlatform❌|[下载](https://t.me/c/1834195052/42)|| | |cfa作者在cfa之后的多平台代理软件，目前删库
+|Clash MultuPlatform|[下载](https://t.me/c/1834195052/42)|| | |cfa作者在cfa之后的多平台代理软件，目前删库
 |Clash You|[下载](https://github.com/Yos-X/ClashYou/releases)| | | |于2023年停止更新，MD3设计风格的Clash
 |Clash Mi|[下载](clashmi.app/)|[下载](https://github.com/KaringX/clashmi) | | |于2023年停止更新，MD3设计风格的Clash
+|AnyPortal|[下载](https://github.com/AnyPortal/AnyPortal)|[下载]()|||多平台
+|ClashRS|[下载](https://watfaq.gitbook.io/clashrs-user-manual)|[下载](https://github.com/Watfaq/clash-rs?tab=readme-ov-file)|||多平台
 
 - 1、大部分安卓手机，将应用商店的地区更改为境外地区后，可搜到上述软件
 
 - 2、大部分软件都是在GitHub的开源项目，GitHub目前应该是有被🧱了
-
-- 3、为了方便大家下载，部分软件提供了**1年**（版本较新）和**备用**（版本较旧）两种国内下载方式
 
 ---
 
