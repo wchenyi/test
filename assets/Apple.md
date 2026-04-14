@@ -35,6 +35,7 @@
 |ClashX|[链接直达](https://apps.apple.com/hk/app/clashx-服务监控面板/id6444824570)||大陆ID即可
 |Clash Dash|[链接直达](https://apps.apple.com/cn/app/clash-dash/id6738882561)||大陆ID即可
 |Clash Mi|[链接直达](https://apps.apple.com/us/app/clash-mi/id6744321968)||
+|ChocLite|[链接直达](https://apps.apple.com/by/app/choclite/id6467517938)||
 
 
 **其他免费代理/VPN软件**
