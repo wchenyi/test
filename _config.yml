@@ -8,3 +8,4 @@ include:
   - assets
   - assets/js
   - assets/css
+  - search.json
