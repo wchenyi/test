@@ -61,6 +61,8 @@
 |GUI.for.Clash|[下载](https://gui-for-cores.github.io/)|[下载](https://github.com/GUI-for-Cores/GUI.for.Clash)|
 |Pandora-Box|[下载](https://github.com/snakem982/Pandora-Box/)||
 |Stelliberty|[下载](https://github.com/Kindness-Kismet/Stelliberty)||
+|Pandora-Box|[下载](https://github.com/snakem982/Pandora-Box)||
+|Koala Clash|[下载](https://github.com/coolcoala/koala-clash)||跨平台的Mihimo内核客户端
 
 
 ---
