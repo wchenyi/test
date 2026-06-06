@@ -35,6 +35,7 @@
 |GUI.for.Clash|[下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)|
 |Stelliberty|[下载](https://github.com/Kindness-Kismet/Stelliberty/releases)|
 |Throne|[下载](https://github.com/throneproj/Throne/releases)|
+|Koala Clash|[下载](https://github.com/coolcoala/koala-clash)|
 
 ### **1.1 Trojan客户端**
 
