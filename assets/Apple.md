@@ -90,6 +90,7 @@
 |Clashmi|[下载](clashmi.app/)|[下载](https://github.com/KaringX/clashmi)|
 |ClashBar|[下载](https://github.com/Sitoi/clashbar)||
 |AnyPortal|[下载](https://github.com/AnyPortal/AnyPortal)||
+|Koala Clash|[下载](https://github.com/coolcoala/koala-clash)||
 
 ### **2.1 Trojan客户端**
 
