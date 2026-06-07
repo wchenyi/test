@@ -37,7 +37,7 @@
 |Clash Mi|[链接直达](https://apps.apple.com/us/app/clash-mi/id6744321968)||
 |ChocLite|[链接直达](https://apps.apple.com/by/app/choclite/id6467517938)||
 |ClashBar|||
-|ShadowClash|[下载](https://apps.apple.com/app/id6760091330)||
+|ShadowClash|[链接直达](https://apps.apple.com/app/id6760091330)||
 
 
 **其他免费代理/VPN软件**
